@@ -13,6 +13,9 @@ This folder contains your first pre-class assignment. Remember to complete the f
     - Copy the `readme.md` and `pre-class-03.Rmd` document into this.
     - Follow the instructions and commit often. 
 
+```{r}
+readme.md
+```{r}
 
 
 Then proceed to the Pre Week 03 RMarkdown file, complete this and commit your work often to begin to learn how to make small changes and committing. 
